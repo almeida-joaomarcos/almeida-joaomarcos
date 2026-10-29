@@ -1,11 +1,11 @@
 # João Marcos Almeida
 
-**Estudante de Sistemas de Informação · Suporte de TI & Automação de Processos**
+**Estudante de Sistemas de Informação · Automação de Processos & Desenvolvimento**
 
-Transformo tarefas repetitivas em fluxos automáticos e estou construindo minha base em desenvolvimento back-end com **Java + SQL**. Atualmente no 4º semestre de Sistemas de Informação no IFBA e trabalhando com automação, dados e Google Workspace.
+Transformo tarefas repetitivas em fluxos automáticos e construo aplicações para resolver problemas reais do dia a dia. Atualmente no 4º semestre de Sistemas de Informação no IFBA e trabalhando com automação, dados e Google Workspace.
 
-- 🔭 Desenvolvendo a **[Caloria Certa](https://almeida-joaomarcos.github.io/tdee-web/)** — calculadora web de TDEE, TMB e macros
-- 🌱 Estudando **Java, PostgreSQL e IA aplicada**
+- 🔭 Desenvolvendo o **[Giro](https://github.com/almeida-joaomarcos/giro-estoque)** — app de controle de estoque offline para pequenos comércios (Flutter + SQLite, Windows e Android)
+- 🌱 Estudando **Java, PostgreSQL, Flutter e IA aplicada**
 - 💬 Gosto de conversar sobre automação de processos, Google Apps Script, Power Query e IA no trabalho
 - 📍 Feira de Santana, Bahia — aberto a **estágio remoto, híbrido ou em Salvador**
 - 📫 **joaomarcosalmeida1105@gmail.com**
@@ -15,6 +15,9 @@ Transformo tarefas repetitivas em fluxos automáticos e estou construindo minha 
 ### 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -30,9 +33,20 @@ Transformo tarefas repetitivas em fluxos automáticos e estou construindo minha 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| **[Giro](https://github.com/almeida-joaomarcos/giro-estoque)** | Controle de estoque offline para pequenos comércios. Onboarding por segmento (mercado, padaria, bebidas, logística), saldo derivado das movimentações, transferência entre locais, relatórios, CSV e backup. Mesmo código no desktop e no celular. | Flutter, Dart, SQLite |
 | **[Caloria Certa](https://github.com/almeida-joaomarcos/tdee-web)** | Calculadora web de TDEE, TMB e macros. Versão online do meu projeto em Java Swing, com histórico local e layout responsivo. | HTML, CSS, JavaScript |
 | **[Calculadora TDEE (desktop)](https://github.com/almeida-joaomarcos/calculadora-tdee)** | Aplicação desktop para cálculo de gasto calórico e macronutrientes, com validação de dados e interface Swing. | Java, Swing, POO |
 | **[Sistema de Controle de Estoque](https://github.com/almeida-joaomarcos/sistema-estoque-lp2)** | CRUD de produtos com PostgreSQL, arquitetura em camadas (Model/DAO/View) e interfaces SDI e MDI. | Java, Swing, JDBC, PostgreSQL |
+
+---
+
+### 🤖 IA aplicada
+
+Uso modelos de linguagem como ferramenta de trabalho, não como brinquedo:
+
+- **Prompt engineering** no dia a dia para prototipar telas, revisar código, escrever testes e documentar projetos.
+- **Automação com Apps Script** para padronizar, classificar e cruzar dados que antes exigiam trabalho manual.
+- **Power Query** para reconciliar bases de portais diferentes — uma rotina que consumia um dia inteiro de duas pessoas passou a rodar em cerca de 30 minutos.
 
 ---
 
