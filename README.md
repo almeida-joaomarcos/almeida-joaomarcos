@@ -2,7 +2,7 @@
 
 **Estudante de Sistemas de Informação · Suporte de TI & Automação de Processos**
 
-Transformo tarefas repetitivas em fluxos automáticos e estou construindo minha base em desenvolvimento back-end com **Java + SQL**. Atualmente no 4º semestre de Sistemas de Informação no IFBA e trabalhando com automação, dados e Google Workspace em uma corretora de seguros.
+Transformo tarefas repetitivas em fluxos automáticos e estou construindo minha base em desenvolvimento back-end com **Java + SQL**. Atualmente no 4º semestre de Sistemas de Informação no IFBA e trabalhando com automação, dados e Google Workspace.
 
 - 🔭 Desenvolvendo a **[Caloria Certa](https://almeida-joaomarcos.github.io/tdee-web/)** — calculadora web de TDEE, TMB e macros
 - 🌱 Estudando **Java, PostgreSQL e IA aplicada**
